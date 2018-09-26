@@ -1,0 +1,42 @@
+*****************1º relatorio**************************
+
+- dispositivos que utilizam a funcionalidade (tele, pulseiras)
+- Pedometros area da saudde e a sua utilização
+- aplicaçoes do pedometro (a nivel industrial e fazer estudo dos kilometros dos trabalhadores)
+
+
+objetivos:
+
+requisitos:
+- arquitetura do sistema (imagem) e protocolos
+- display
+- rtc
+- acelerometro mpu 9250
+- atmega324pa
+- 
+
+estudo das alternativas:
+- acelerometro num pé com protocolo I2C
+- requisição dos dados para um computador através de rs232
+- requisição dos dados por bluethooth ou wifi, gsm
+- visualização dos dados num display
+
+
+RESUMO
+
+ABSTRACT
+
+INTRODUÇÃO
+- CONTEXTUALIZAÇÃO E MOTIVAÇÃO
+- OBJETIVOS
+- CALENDARIZAÇAO
+- ORGANIZAÇÃO DO RELATORIO
+
+
+ESTADO DA ARTE
+
+
+
+
+
+
