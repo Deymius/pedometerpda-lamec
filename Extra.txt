@@ -1,0 +1,11 @@
+Microcontrolador Atmel ATmega324PA
+Protocolo Serie – 2 portas (pinos PD0-PD3)
+	Protocolo SPI – 1? Porta (pinos PB4-PB7)
+	Protocolo I2C – 1? porta (pinos PC0-PC1)
+
+
+Para este projeto foi planeado usar um microcontrolador da familia Atmel, mais concretamente foi planeado usar o ATmega324PA.
+A escolha deste microcontrolador deve-se pela razão da necessidade de mais do que uma porta Series, sendo bastante comum haver varios microcontroladores da mesma familia somente com uma porta serie.
+Os componentes que comunicam com este protocolo serão abordados a seguir.
+Este microcontrolador apresenta possibilidade de comunicar com outros componetes utilizando protocolos I2C (presente nos pinos PC0-PC1), SPI (presente nos pinos PB3-PB7) e Serie (presente nos pinos PD0-PD3).
+Este microcontrolador tem 40 pinos dos quais 10 dos pinos foram utilizador para comunicar com outros elementos do sistema.
