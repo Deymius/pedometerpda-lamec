@@ -33,6 +33,12 @@ LINKER_SCRIPT_DEP:=
 
 # Every subdirectory with source files must be described here
 SUBDIRS :=  \
+../Debug/ \
+../Debug/src/ \
+../Debug/src/DS3231/ \
+../Debug/src/MPU9250/ \
+../Debug/src/RFID/ \
+../Debug/src/ST7920/ \
 ../src/ \
 ../src/ASF/ \
 ../src/ASF/common/ \
